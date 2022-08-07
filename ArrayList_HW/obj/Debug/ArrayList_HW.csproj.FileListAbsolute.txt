@@ -1,0 +1,16 @@
+C:\Users\FERN\Desktop\T-DEV\ArrayList_HW\obj\Debug\ArrayList_HW.csproj.AssemblyReference.cache
+C:\Users\FERN\Desktop\T-DEV\ArrayList_HW\obj\Debug\ArrayList_HW.csproj.SuggestedBindingRedirects.cache
+C:\Users\FERN\Desktop\T-DEV\ArrayList_HW\obj\Debug\MainWindow.g.cs
+C:\Users\FERN\Desktop\T-DEV\ArrayList_HW\obj\Debug\App.g.cs
+C:\Users\FERN\Desktop\T-DEV\ArrayList_HW\obj\Debug\ArrayList_HW_MarkupCompile.cache
+C:\Users\FERN\Desktop\T-DEV\ArrayList_HW\obj\Debug\ArrayList_HW_MarkupCompile.lref
+C:\Users\FERN\Desktop\T-DEV\ArrayList_HW\bin\Debug\ArrayList_HW.exe.config
+C:\Users\FERN\Desktop\T-DEV\ArrayList_HW\bin\Debug\ArrayList_HW.exe
+C:\Users\FERN\Desktop\T-DEV\ArrayList_HW\bin\Debug\ArrayList_HW.pdb
+C:\Users\FERN\Desktop\T-DEV\ArrayList_HW\obj\Debug\MainWindow.baml
+C:\Users\FERN\Desktop\T-DEV\ArrayList_HW\obj\Debug\ArrayList_HW.g.resources
+C:\Users\FERN\Desktop\T-DEV\ArrayList_HW\obj\Debug\ArrayList_HW.Properties.Resources.resources
+C:\Users\FERN\Desktop\T-DEV\ArrayList_HW\obj\Debug\ArrayList_HW.csproj.GenerateResource.cache
+C:\Users\FERN\Desktop\T-DEV\ArrayList_HW\obj\Debug\ArrayList_HW.csproj.CoreCompileInputs.cache
+C:\Users\FERN\Desktop\T-DEV\ArrayList_HW\obj\Debug\ArrayList_HW.exe
+C:\Users\FERN\Desktop\T-DEV\ArrayList_HW\obj\Debug\ArrayList_HW.pdb
